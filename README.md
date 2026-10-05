@@ -7,6 +7,8 @@
 
 [Overview](#what-is-imgbulk) · [Use cases](#use-cases) · [Getting started](#getting-started) · [中文介绍](#中文介绍)
 
+📖 **Product guide: [Best Bulk AI Image Generator in 2026](articles/best-bulk-ai-image-generator-2026.md)** — tool comparisons, model credit rates and practical batch examples.
+
 ## What is ImgBulk?
 
 ImgBulk is a browser-based workspace for batch AI image generation, photo editing and image-to-prompt analysis. Instead of repeating the same setup for every image, you can prepare a list of prompts or reference images, run up to **200 tasks per batch**, review each result and download the finished images together.
